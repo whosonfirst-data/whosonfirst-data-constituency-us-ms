@@ -9,7 +9,7 @@
     "geom:bbox":"-91.36561,31.348671,-90.7144,32.26598",
     "geom:latitude":31.858414,
     "geom:longitude":-90.950873,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":2937504103.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 85",
     "uscensus:sldlst":"085",
     "uscensus:statefp":"28",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688579
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487268,
     "wof:geomhash":"a73d75623c499deccda314a9e1abea1b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688579
+        }
+    ],
     "wof:id":1108768885,
     "wof:lastmodified":1481487268,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688579,
     "wof:repo":"whosonfirst-data-constituency-us-ms",
     "wof:superseded_by":[],
     "wof:supersedes":[],

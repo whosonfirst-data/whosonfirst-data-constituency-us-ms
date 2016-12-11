@@ -9,7 +9,7 @@
     "geom:bbox":"-89.24698,30.139845,-88.79515,30.677292",
     "geom:latitude":30.443176,
     "geom:longitude":-88.962281,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":629372374.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 50",
     "uscensus:sldust":"050",
     "uscensus:statefp":"28",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688579
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487306,
     "wof:geomhash":"0a501c67980580739dbefb33a922f23a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688579
+        }
+    ],
     "wof:id":1108769081,
     "wof:lastmodified":1481487306,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688579,
     "wof:repo":"whosonfirst-data-constituency-us-ms",
     "wof:superseded_by":[],
     "wof:supersedes":[],

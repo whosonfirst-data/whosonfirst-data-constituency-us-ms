@@ -9,7 +9,7 @@
     "geom:bbox":"-90.88741,31.24916,-89.82333,31.64195",
     "geom:latitude":31.436248,
     "geom:longitude":-90.424005,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1756489422.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 53",
     "uscensus:sldlst":"053",
     "uscensus:statefp":"28",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688579
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487258,
     "wof:geomhash":"75fde76416333ab96f21b3e75bd38375",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688579
+        }
+    ],
     "wof:id":1108768813,
     "wof:lastmodified":1481487258,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688579,
     "wof:repo":"whosonfirst-data-constituency-us-ms",
     "wof:superseded_by":[],
     "wof:supersedes":[],

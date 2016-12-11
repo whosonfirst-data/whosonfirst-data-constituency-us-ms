@@ -9,7 +9,7 @@
     "geom:bbox":"-89.73574,33.108871,-88.77616,33.73943",
     "geom:latitude":33.459364,
     "geom:longitude":-89.266714,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":3248487806.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 15",
     "uscensus:sldust":"015",
     "uscensus:statefp":"28",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688579
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487288,
     "wof:geomhash":"cb09097c11c4fd419c497bddf3b3313c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688579
+        }
+    ],
     "wof:id":1108769003,
     "wof:lastmodified":1481487288,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688579,
     "wof:repo":"whosonfirst-data-constituency-us-ms",
     "wof:superseded_by":[],
     "wof:supersedes":[],

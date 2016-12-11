@@ -9,7 +9,7 @@
     "geom:bbox":"-88.94984,33.286327,-88.58324,33.602633",
     "geom:latitude":33.430352,
     "geom:longitude":-88.764363,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":633043053.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 38",
     "uscensus:sldlst":"038",
     "uscensus:statefp":"28",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688579
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487253,
     "wof:geomhash":"9f4535713835f11dbe43b5713d7b6ed3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688579
+        }
+    ],
     "wof:id":1108768781,
     "wof:lastmodified":1481487253,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688579,
     "wof:repo":"whosonfirst-data-constituency-us-ms",
     "wof:superseded_by":[],
     "wof:supersedes":[],

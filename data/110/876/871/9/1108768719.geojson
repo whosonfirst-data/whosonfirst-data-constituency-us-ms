@@ -9,7 +9,7 @@
     "geom:bbox":"-90.19863,34.21308,-89.7203,34.648508",
     "geom:latitude":34.443179,
     "geom:longitude":-89.990298,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1183658914.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 11",
     "uscensus:sldlst":"011",
     "uscensus:statefp":"28",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688579
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487245,
     "wof:geomhash":"4c5a404e2b94c9df014d3d7206078f35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688579
+        }
+    ],
     "wof:id":1108768719,
     "wof:lastmodified":1481487245,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688579,
     "wof:repo":"whosonfirst-data-constituency-us-ms",
     "wof:superseded_by":[],
     "wof:supersedes":[],

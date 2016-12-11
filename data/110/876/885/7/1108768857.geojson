@@ -9,7 +9,7 @@
     "geom:bbox":"-90.35506,32.355877,-90.08589,32.487811",
     "geom:latitude":32.426879,
     "geom:longitude":-90.25672,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":130352625.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 72",
     "uscensus:sldlst":"072",
     "uscensus:statefp":"28",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688579
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487264,
     "wof:geomhash":"77a758a6f08141ec6c0be448c6b5ac86",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688579
+        }
+    ],
     "wof:id":1108768857,
     "wof:lastmodified":1481487264,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688579,
     "wof:repo":"whosonfirst-data-constituency-us-ms",
     "wof:superseded_by":[],
     "wof:supersedes":[],

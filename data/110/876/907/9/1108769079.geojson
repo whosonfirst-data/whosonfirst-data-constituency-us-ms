@@ -9,7 +9,7 @@
     "geom:bbox":"-89.26963,30.15396,-88.95941,30.58886",
     "geom:latitude":30.384475,
     "geom:longitude":-89.088508,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":262546181.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 49",
     "uscensus:sldust":"049",
     "uscensus:statefp":"28",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688579
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487306,
     "wof:geomhash":"f7052225ce686cc667937530e3dc1e23",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688579
+        }
+    ],
     "wof:id":1108769079,
     "wof:lastmodified":1481487306,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688579,
     "wof:repo":"whosonfirst-data-constituency-us-ms",
     "wof:superseded_by":[],
     "wof:supersedes":[],
